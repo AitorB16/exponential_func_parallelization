@@ -1,0 +1,32 @@
+0 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 2572.2 ms 
+
+1 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 2574.8 ms 
+
+2 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 2570.9 ms 
+
+3 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 2570.3 ms 
+
+4 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 2577.4 ms 
+
+5 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 2575.6 ms 
+
+6 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 2654.3 ms 
+
+7 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 2569.5 ms 
+
+8 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 2581.2 ms 
+
+9 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 2579.7 ms 
+
+#######################
+ MAX: 2654.3 MIN 2569.5 BB 2582.6

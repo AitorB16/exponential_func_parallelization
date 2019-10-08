@@ -1,7 +1,7 @@
 /****************
   Konputagailuen Ingeniaritza - EHP
 
-  arik1.c  --  bertsio paraleloa
+  arik1.c  --  serieko bertsioa
   OpenMPren oinarrizko kontzeptuak freskatzeko ariketa
 
 *******************************************************/
@@ -58,7 +58,7 @@ void prozesatu_eskaerak (double mat[ERR][ZUT], int *zutabeak, int kop, double *e
   int      i, j, zutabe;
   double   y, batura;
 
-  #pragma omp parallel for private(i,zutabe,batura,y) schedule(dynamic)
+  #pragma omp parallel for private(i,zutabe,batura,y) schedule(static)
   for (j=0; j<kop; j++)
   {
     zutabe = zutabeak[j];
@@ -83,7 +83,7 @@ int main (int argc, char *argv[])
     esk_kop = irakurri_eskaerak (argv[1], zutabeak);
     emaitzak = malloc (esk_kop * sizeof (double));
 
-    //Lehen exekuzioa EZ kontuan hartu 
+
     gettimeofday (&t0, 0);
 
     prozesatu_eskaerak (mat, zutabeak, esk_kop, emaitzak);
@@ -91,27 +91,26 @@ int main (int argc, char *argv[])
     gettimeofday (&t1, 0);
     tex = (t1.tv_sec - t0.tv_sec) + (t1.tv_usec - t0.tv_usec) / 1e6;
 
-    // printf ("%d EXEKUZIOA\n  >> Eskaerak: %d  -- Azken batura: %1.3f  -- Tex: %1.1f ms \n\n",i, esk_kop, emaitzak[esk_kop - 1], tex*1000);
+// printf ("%d EXEKUZIOA\n  >> Eskaerak: %d  -- Azken batura: %1.3f  -- Tex: %1.1f ms \n\n",i, esk_kop, emaitzak[esk_kop - 1], tex*1000);
 
     tmax=0.0;
     tmin=DBL_MAX;
     tbb=0.0;
 
-    for(i=0;i<10;i++)
-    {
-        gettimeofday (&t0, 0);
+    for(i=0;i<10;i++){
+    gettimeofday (&t0, 0);
 
-        prozesatu_eskaerak (mat, zutabeak, esk_kop, emaitzak);
-    
-        gettimeofday (&t1, 0);
-        tex = (t1.tv_sec - t0.tv_sec) + (t1.tv_usec - t0.tv_usec) / 1e6;
-        printf ("%d EXEKUZIOA\n  >> Eskaerak: %d  -- Azken batura: %1.3f  -- Tex: %1.1f ms \n\n",i, esk_kop, emaitzak[esk_kop - 1], tex*1000);
+    prozesatu_eskaerak (mat, zutabeak, esk_kop, emaitzak);
 
-        if(tex<tmin)
-            tmin=tex;
-        else if (tex>tmax)
-            tmax=tex;
-        tbb+=tex;
+    gettimeofday (&t1, 0);
+    tex = (t1.tv_sec - t0.tv_sec) + (t1.tv_usec - t0.tv_usec) / 1e6;
+    printf ("%d EXEKUZIOA\n  >> Eskaerak: %d  -- Azken batura: %1.3f  -- Tex: %1.1f ms \n\n",i, esk_kop, emaitzak[esk_kop - 1], tex*1000);
+
+    if(tex<tmin)
+        tmin=tex;
+    else if (tex>tmax)
+        tmax=tex;
+    tbb+=tex;
     }
 
     tbb=tbb/10;

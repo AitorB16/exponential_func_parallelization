@@ -1,0 +1,548 @@
+///PARALELO KANPOKO BEGIZTA STATIC
+2 HARI
+0 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 2108.0 ms 
+
+1 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1847.4 ms 
+
+2 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1675.3 ms 
+
+3 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1494.1 ms 
+
+4 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1369.9 ms 
+
+5 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1370.4 ms 
+
+6 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1366.5 ms 
+
+7 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1366.8 ms 
+
+8 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1366.4 ms 
+
+9 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1467.8 ms 
+
+#######################
+ MAX: 1467.8 ms MIN 1366.4 ms BB 1543.2 ms
+-----------------------------------------------------------------
+4 HARI
+0 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1080.9 ms 
+
+1 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1068.2 ms 
+
+2 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1086.8 ms 
+
+3 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1068.2 ms 
+
+4 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 947.3 ms 
+
+5 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 946.0 ms 
+
+6 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1035.4 ms 
+
+7 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 917.2 ms 
+
+8 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 2194.1 ms 
+
+9 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1638.9 ms 
+
+#######################
+ MAX: 2194.1 ms MIN 917.2 ms BB 1198.3 ms
+-----------------------------------------------------------------
+8 HARI
+0 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 711.3 ms 
+
+1 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 883.5 ms 
+
+2 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 695.6 ms 
+
+3 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 696.0 ms 
+
+4 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 689.1 ms 
+
+5 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 693.4 ms 
+
+6 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 692.1 ms 
+
+7 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 690.5 ms 
+
+8 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 693.3 ms 
+
+9 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 675.7 ms 
+
+#######################
+ MAX: 883.5 ms MIN 675.7 ms BB 712.1 ms
+-----------------------------------------------------------------
+16 HARI
+0 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 639.7 ms 
+
+1 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 500.6 ms 
+
+2 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 480.1 ms 
+
+3 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 431.0 ms 
+
+4 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 429.6 ms 
+
+5 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 430.5 ms 
+
+6 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 430.2 ms 
+
+7 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 427.9 ms 
+
+8 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 426.3 ms 
+
+9 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 426.8 ms 
+
+#######################
+ MAX: 430.5 ms MIN 426.3 ms BB 462.3 ms
+-----------------------------------------------------------------
+///PARALELO KONPOKO BEGIZTA DYNAMIC
+2 HARI
+0 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1686.5 ms 
+
+1 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1685.1 ms 
+
+2 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1692.7 ms 
+
+3 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1728.2 ms 
+
+4 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1806.4 ms 
+
+5 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1710.5 ms 
+
+6 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1736.2 ms 
+
+7 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1889.5 ms 
+
+8 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1905.4 ms 
+
+9 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1662.2 ms 
+
+#######################
+ MAX: 1905.4 ms MIN 1662.2 ms BB 1750.3 ms
+-----------------------------------------------------------------
+4 HARI
+0 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1263.0 ms 
+
+1 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1205.8 ms 
+
+2 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 922.2 ms 
+
+3 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 950.0 ms 
+
+4 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 967.6 ms 
+
+5 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 947.4 ms 
+
+6 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 951.5 ms 
+
+7 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 989.8 ms 
+
+8 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 938.9 ms 
+
+9 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 975.5 ms 
+
+#######################
+ MAX: 989.8 ms MIN 922.2 ms BB 1011.2 ms
+-----------------------------------------------------------------
+8 HARI
+0 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 558.3 ms 
+
+1 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 653.0 ms 
+
+2 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 551.3 ms 
+
+3 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 549.3 ms 
+
+4 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 550.5 ms 
+
+5 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 549.8 ms 
+
+6 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 529.2 ms 
+
+7 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 532.5 ms 
+
+8 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 531.7 ms 
+
+9 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 524.6 ms 
+
+#######################
+ MAX: 653.0 ms MIN 524.6 ms BB 553.0 ms
+-----------------------------------------------------------------
+16 HARI
+0 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 388.1 ms 
+
+1 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 556.4 ms 
+
+2 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 317.0 ms 
+
+3 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 525.9 ms 
+
+4 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 306.8 ms 
+
+5 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 303.1 ms 
+
+6 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 315.7 ms 
+
+7 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 321.4 ms 
+
+8 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 314.4 ms 
+
+9 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 308.0 ms 
+
+#######################
+ MAX: 556.4 ms MIN 303.1 ms BB 365.7 ms
+-----------------------------------------------------------------
+///PARALELO BARRUKO BEGIZTA STATIC
+2 HARI
+0 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1146.7 ms 
+
+1 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1147.0 ms 
+
+2 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1145.9 ms 
+
+3 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1150.1 ms 
+
+4 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1148.1 ms 
+
+5 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1150.2 ms 
+
+6 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1150.0 ms 
+
+7 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1157.0 ms 
+
+8 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1148.9 ms 
+
+9 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 1148.0 ms 
+
+#######################
+ MAX: 1157.0 ms MIN 1145.9 ms BB 1149.2 ms
+-----------------------------------------------------------------
+4 HARI
+0 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 862.2 ms 
+
+1 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 527.9 ms 
+
+2 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 527.4 ms 
+
+3 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 527.2 ms 
+
+4 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 527.5 ms 
+
+5 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 527.6 ms 
+
+6 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 526.7 ms 
+
+7 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 527.6 ms 
+
+8 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 527.6 ms 
+
+9 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 526.9 ms 
+
+#######################
+ MAX: 527.6 ms MIN 526.7 ms BB 560.9 ms
+-----------------------------------------------------------------
+8 HARI
+0 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 594.2 ms 
+
+1 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 413.2 ms 
+
+2 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 331.5 ms 
+
+3 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 306.4 ms 
+
+4 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 306.1 ms 
+
+5 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 305.7 ms 
+
+6 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 305.9 ms 
+
+7 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 305.5 ms 
+
+8 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 300.8 ms 
+
+9 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 357.8 ms 
+
+#######################
+ MAX: 357.8 ms MIN 300.8 ms BB 352.7 ms
+-----------------------------------------------------------------
+16 HARI
+0 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 294.6 ms 
+
+1 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 287.4 ms 
+
+2 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 263.0 ms 
+
+3 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 194.5 ms 
+
+4 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 225.5 ms 
+
+5 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 322.9 ms 
+
+6 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 190.7 ms 
+
+7 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 201.3 ms 
+
+8 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 181.2 ms 
+
+9 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 186.9 ms 
+
+#######################
+ MAX: 322.9 ms MIN 181.2 ms BB 234.8 ms
+-----------------------------------------------------------------
+///PARALELO BARRUKO BEGIZTA DYNAMIC
+2 HARI
+0 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5461.0 ms 
+
+1 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5381.4 ms 
+
+2 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5540.4 ms 
+
+3 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5467.1 ms 
+
+4 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5467.5 ms 
+
+5 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5552.8 ms 
+
+6 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5481.2 ms 
+
+7 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5478.2 ms 
+
+8 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5479.7 ms 
+
+9 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5480.3 ms 
+
+#######################
+ MAX: 5552.8 ms MIN 5381.4 ms BB 5478.9 ms
+-----------------------------------------------------------------
+4 HARI
+0 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 4891.0 ms 
+
+1 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5011.4 ms 
+
+2 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 4770.3 ms 
+
+3 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 4770.3 ms 
+
+4 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 4769.5 ms 
+
+5 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5189.2 ms 
+
+6 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 4911.2 ms 
+
+7 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5178.4 ms 
+
+8 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5173.7 ms 
+
+9 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5307.7 ms 
+
+#######################
+ MAX: 5307.7 ms MIN 4769.5 ms BB 4997.3 ms
+-----------------------------------------------------------------
+8 HARI
+0 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5545.5 ms 
+
+1 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5438.1 ms 
+
+2 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5524.3 ms 
+
+3 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5196.9 ms 
+
+4 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5343.0 ms 
+
+5 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5453.7 ms 
+
+6 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5439.7 ms 
+
+7 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5381.6 ms 
+
+8 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5819.9 ms 
+
+9 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5692.7 ms 
+
+#######################
+ MAX: 5819.9 ms MIN 5196.9 ms BB 5483.5 ms
+-----------------------------------------------------------------
+16 HARI
+0 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5621.3 ms 
+
+1 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5485.4 ms 
+
+2 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5479.2 ms 
+
+3 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5413.8 ms 
+
+4 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5331.7 ms 
+
+5 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5358.0 ms 
+
+6 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5432.3 ms 
+
+7 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5304.5 ms 
+
+8 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5311.3 ms 
+
+9 EXEKUZIOA
+  >> Eskaerak: 200  -- Azken batura: 3312.965  -- Tex: 5235.4 ms 
+
+#######################
+ MAX: 5432.3 ms MIN 5235.4 ms BB 5397.3 ms
+-----------------------------------------------------------------

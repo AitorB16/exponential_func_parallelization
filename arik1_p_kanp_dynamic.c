@@ -12,6 +12,7 @@
 #include <math.h>
 #include <float.h>
 
+
 #define  ERR 200000
 #define  ZUT 300
 #define  ESKMAX 1000
@@ -57,7 +58,7 @@ void prozesatu_eskaerak (double mat[ERR][ZUT], int *zutabeak, int kop, double *e
   int      i, j, zutabe;
   double   y, batura;
 
-
+  #pragma omp parallel for private(i,zutabe,batura,y) schedule(dynamic)
   for (j=0; j<kop; j++)
   {
     zutabe = zutabeak[j];
@@ -114,7 +115,7 @@ int main (int argc, char *argv[])
 
     tbb=tbb/10;
 
-    printf("#######################\n MAX: %1.1f MIN %1.1f BB %1.1f\n",tmax*1000,tmin*1000,tbb*1000);
+    printf("#######################\n MAX: %1.1f ms MIN %1.1f ms BB %1.1f ms\n",tmax*1000,tmin*1000,tbb*1000);
     
     return (0);
 }
